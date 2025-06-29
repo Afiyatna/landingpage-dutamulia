@@ -25,7 +25,7 @@ const TestimoniSection = () => {
             Testimoni Jemaah
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Cerita pengalaman jemaah Umroh Plus Hainan bersama Duta Mulia
+            Cerita pengalaman jemaah Umroh bersama Duta Mulia
           </p>
         </div>
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">

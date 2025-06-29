@@ -30,7 +30,7 @@ const KeunggulanSection = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-orange-700 mb-4">
-            Keunggulan Umroh Plus Hainan
+            Keunggulan Paket Promo Umrah Akhir Tahun 2025
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             Alasan mengapa Umroh Plus Hainan Duta Mulia adalah pilihan terbaik untuk perjalanan spiritual dan wisata Anda

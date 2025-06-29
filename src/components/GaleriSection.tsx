@@ -25,10 +25,10 @@ const GaleriSection = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-brown-900 mb-4">
-            Galeri Umroh Plus Hainan
+            Galeri Umroh Duta Mulia
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Dokumentasi perjalanan Umroh Plus Hainan bersama Duta Mulia: Makkah, Madinah, dan wisata Hainan, Tiongkok.
+            Dokumentasi perjalanan Umroh bersama Duta Mulia: Makkah, Madinah, dan wisata Hainan, Tiongkok.
           </p>
         </div>
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-6">

@@ -16,13 +16,14 @@ const HeroSection = () => {
             <div className="mb-8">
               <img src="/logo-dutamulia.jpg" alt="Duta Mulia" className="mx-auto lg:mx-0 mb-4 w-40 rounded-xl shadow-lg" />
               <h1 className="text-4xl lg:text-6xl font-bold mb-4 text-orange-600 drop-shadow">
-                Umroh Plus Hainan
+                Paket Promo Umroh Akhir Tahun 2025
               </h1>
               <div className="w-24 h-1 bg-orange-400 mx-auto lg:mx-0 mb-6"></div>
             </div>
             <h2 className="text-2xl lg:text-4xl font-bold mb-6 leading-tight">
               Keberangkatan <span className="text-orange-600">04 Desember 2025</span><br />
-              Harga <span className="text-orange-600">26,5 Jt</span> &bull; <span className="text-orange-600">12 Hari</span>
+              Harga <span className="text-orange-600">26,2 Jt</span> 
+              {/* &bull; <span className="text-orange-600">12 Hari</span> */}
             </h2>
             <p className="text-lg lg:text-xl mb-8 text-brown-800 leading-relaxed">
               Program spesial bersama <b>Duta Mulia</b> dengan fasilitas lengkap: Makkah, Madinah, dan wisata Hainan, Tiongkok. Penerbangan langsung <b>Hainan Airlines</b>.
@@ -40,7 +41,7 @@ const HeroSection = () => {
             <div className="relative">
               <img 
                 src="/img-dutamulia1.jpg" 
-                alt="Pesawat Hainan Airlines" 
+                alt="Masjidil Harom" 
                 className="rounded-2xl shadow-2xl mx-auto max-w-full h-auto"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-orange-400/30 to-transparent rounded-2xl"></div>

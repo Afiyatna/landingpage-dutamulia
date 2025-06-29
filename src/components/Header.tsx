@@ -16,7 +16,7 @@ const Header = () => {
           </div>
         </div>
         <div className="hidden md:block">
-          <span>Konsultasi Umroh Plus Hainan • Duta Mulia</span>
+          <span>Konsultasi Umroh Akhir Tahun 2025 • Duta Mulia</span>
         </div>
       </div>
     </header>

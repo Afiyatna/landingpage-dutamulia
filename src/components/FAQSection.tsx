@@ -47,7 +47,7 @@ const FAQSection = () => {
             Pertanyaan Umum
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Temukan jawaban atas pertanyaan yang sering diajukan seputar program Umroh Plus Hainan Duta Mulia
+            Temukan jawaban atas pertanyaan yang sering diajukan seputar program Umroh Duta Mulia
           </p>
         </div>
         <div className="max-w-3xl mx-auto">

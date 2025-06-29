@@ -3,7 +3,7 @@ import { Check, X } from 'lucide-react';
 
 const PaketSection = () => {
   const paket = {
-    name: "Promo Umrah Akhir Tahun 2025",
+    name: "Paket Promo Umroh Akhir Tahun 2025",
     price: "Rp 26.200.000",
     duration: "-",
     departure: "04 Desember 2025",

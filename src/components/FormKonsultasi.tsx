@@ -21,10 +21,10 @@ const FormKonsultasi = () => {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold text-orange-700 mb-4">
-              Konsultasi Umroh Plus Hainan
+              Konsultasi Umroh Akhir Tahun
             </h2>
             <p className="text-lg text-gray-600">
-              Hubungi kami untuk informasi lengkap dan konsultasi gratis seputar program Umroh Plus Hainan Duta Mulia.
+              Hubungi kami untuk informasi lengkap dan konsultasi gratis seputar program Promo Umroh Akhir Tahun Duta Mulia.
             </p>
           </div>
           <div className="grid lg:grid-cols-2 gap-12 items-center">
