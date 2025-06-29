@@ -44,7 +44,7 @@ const Footer = () => {
           <div>
             <h4 className="text-xl font-bold mb-6 text-orange-200">Menu Cepat</h4>
             <ul className="space-y-3">
-              <li><a href="#" className="text-orange-100 hover:text-orange-300 transition-colors duration-300">Paket Umroh Plus Hainan</a></li>
+              <li><a href="#" className="text-orange-100 hover:text-orange-300 transition-colors duration-300">Paket Promo Akhir Tahun</a></li>
               <li><a href="#" className="text-orange-100 hover:text-orange-300 transition-colors duration-300">Testimoni</a></li>
               <li><a href="#" className="text-orange-100 hover:text-orange-300 transition-colors duration-300">Galeri</a></li>
               <li><a href="#" className="text-orange-100 hover:text-orange-300 transition-colors duration-300">Tentang Kami</a></li>
