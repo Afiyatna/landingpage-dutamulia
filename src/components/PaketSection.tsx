@@ -5,9 +5,9 @@ const PaketSection = () => {
   const paket = {
     name: "Umroh Plus Hainan",
     price: "Rp 26.500.000",
-    duration: "12 Hari",
+      duration: "12 Hari",
     departure: "05 September 2025",
-    features: [
+      features: [
       "Tiket Pesawat Hainan Airlines",
       "Visa Umroh",
       "LA dan Bus",
@@ -26,7 +26,7 @@ const PaketSection = () => {
       "Vaksin Meningitis",
       "Pengiriman Perlengkapan",
       "Domestik PP"
-    ]
+      ]
   };
 
   return (
@@ -45,8 +45,8 @@ const PaketSection = () => {
           <div className="flex flex-col md:flex-row md:justify-between items-center mb-6">
             <div className="mb-2 md:mb-0">
               <span className="text-4xl font-bold text-gold-600">{paket.price}</span>
-              <span className="text-gray-600 ml-2">/ {paket.duration}</span>
-            </div>
+                  <span className="text-gray-600 ml-2">/ {paket.duration}</span>
+                </div>
             <div className="text-brown-900 font-semibold">Keberangkatan: {paket.departure}</div>
           </div>
           <div className="grid md:grid-cols-2 gap-8">
@@ -55,12 +55,12 @@ const PaketSection = () => {
               <ul className="space-y-2 mb-4">
                 {paket.features.map((feature, idx) => (
                   <li key={idx} className="flex items-start space-x-2">
-                    <Check className="w-5 h-5 text-gold-500 mt-0.5 flex-shrink-0" />
+                      <Check className="w-5 h-5 text-gold-500 mt-0.5 flex-shrink-0" />
                     <span className="text-gray-700">{feature}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
+                    </li>
+                  ))}
+                </ul>
+              </div>
             <div>
               <h4 className="font-bold text-brown-900 mb-3">Belum Termasuk:</h4>
               <ul className="space-y-2 mb-4">
