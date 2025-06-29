@@ -45,11 +45,11 @@ const HeroSection = () => {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-orange-400/30 to-transparent rounded-2xl"></div>
             </div>
-            <div className="mt-4 flex flex-wrap justify-center gap-4">
+            {/* <div className="mt-4 flex flex-wrap justify-center gap-4">
               <img src="https://images.pexels.com/photos/4668228/pexels-photo-4668228.jpeg?auto=compress&cs=tinysrgb&w=200" alt="Ka'bah" className="w-24 h-16 object-cover rounded-lg shadow" />
               <img src="https://images.pexels.com/photos/161956/pexels-photo-161956.jpeg?auto=compress&cs=tinysrgb&w=200" alt="Patung Hainan" className="w-24 h-16 object-cover rounded-lg shadow" />
               <img src="https://images.pexels.com/photos/161931/pexels-photo-161931.jpeg?auto=compress&cs=tinysrgb&w=200" alt="Jam Makkah" className="w-24 h-16 object-cover rounded-lg shadow" />
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

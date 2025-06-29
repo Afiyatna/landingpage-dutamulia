@@ -3,20 +3,20 @@ import React from 'react';
 const GaleriSection = () => {
   const photos = [
     {
-      src: "https://images.pexels.com/photos/4668228/pexels-photo-4668228.jpeg?auto=compress&cs=tinysrgb&w=600",
-      alt: "Ka'bah di Makkah"
+      src: "/img-dutamulia1.jpg",
+      alt: "Masjidil Harom"
     },
     {
-      src: "https://images.pexels.com/photos/161956/pexels-photo-161956.jpeg?auto=compress&cs=tinysrgb&w=600",
-      alt: "Patung Dewi Hainan"
+      src: "/img-dutamulia2.jpg",
+      alt: "Masjidil Harom"
     },
     {
-      src: "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=600",
-      alt: "Pesawat Hainan Airlines"
+      src: "/img-dutamulia3.jpg",
+      alt: "Jama'ah Miqot di Bir Ali"
     },
     {
-      src: "https://images.pexels.com/photos/161931/pexels-photo-161931.jpeg?auto=compress&cs=tinysrgb&w=600",
-      alt: "Jam Makkah (Abraj Al Bait)"
+      src: "/img-dutamulia4.jpg",
+      alt: "Jama'ah City Tour di Kebun Kurma Madinah"
     }
   ];
 
