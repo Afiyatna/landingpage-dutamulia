@@ -21,7 +21,7 @@ const HeroSection = () => {
               <div className="w-24 h-1 bg-orange-400 mx-auto lg:mx-0 mb-6"></div>
             </div>
             <h2 className="text-2xl lg:text-4xl font-bold mb-6 leading-tight">
-              Keberangkatan <span className="text-orange-600">05 September 2025</span><br />
+              Keberangkatan <span className="text-orange-600">04 Desember 2025</span><br />
               Harga <span className="text-orange-600">26,5 Jt</span> &bull; <span className="text-orange-600">12 Hari</span>
             </h2>
             <p className="text-lg lg:text-xl mb-8 text-brown-800 leading-relaxed">

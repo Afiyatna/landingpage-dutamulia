@@ -88,12 +88,12 @@ const FormKonsultasi = () => {
                 <div className="space-y-4">
                   <div className="flex items-center space-x-3">
                     <Phone className="text-orange-200" size={20} />
-                    <span>+62 813-1313-1313</span>
+                    <span>+62 819 7555 354</span>
                   </div>
-                  <div className="flex items-center space-x-3">
+                  {/* <div className="flex items-center space-x-3">
                     <Phone className="text-orange-200" size={20} />
                     <span>+62 812-3456-7890</span>
-                  </div>
+                  </div> */}
                 </div>
                 <p className="mt-4 text-orange-100">
                   Tim Duta Mulia siap melayani Anda 24/7 untuk konsultasi dan informasi lebih lanjut.

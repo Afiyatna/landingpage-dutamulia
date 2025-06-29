@@ -27,8 +27,7 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <Phone className="w-5 h-5 text-orange-200 mt-1" />
                 <div>
-                  <p>+62 813-1313-1313</p>
-                  <p>+62 812-3456-7890</p>
+                  <p>+62 819 7555 354</p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">
@@ -69,7 +68,7 @@ const Footer = () => {
       <div className="border-t border-orange-500">
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center text-sm text-orange-100">
-            <p>&copy; 2024 Duta Mulia. Semua hak cipta dilindungi.</p>
+            <p>&copy; 2025 Duta Mulia. Semua hak cipta dilindungi.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="hover:text-orange-300 transition-colors duration-300">Syarat & Ketentuan</a>
               <a href="#" className="hover:text-orange-300 transition-colors duration-300">Kebijakan Privasi</a>

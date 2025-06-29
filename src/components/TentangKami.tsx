@@ -45,7 +45,7 @@ const TentangKami = () => {
           </div>
           <div className="relative">
             <img 
-              src="https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=800" 
+              src="/img-dutamulia1.jpg" 
               alt="Pesawat Hainan Airlines" 
               className="rounded-2xl shadow-2xl w-full h-auto"
             />
