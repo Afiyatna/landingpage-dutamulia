@@ -15,7 +15,19 @@ const FAQSection = () => {
     },
     {
       question: "Bagaimana cara mendaftar program ini?",
-      answer: "Anda dapat mendaftar melalui website www.traveldutamulia.co.id, menghubungi kontak resmi kami, atau datang langsung ke kantor Duta Mulia."
+      answer: (
+        <>
+          Anda dapat mendaftar melalui website www.traveldutamulia.co.id, menghubungi kontak resmi kami, atau datang langsung ke kantor Duta Mulia.<br />
+          <a
+            href="https://wa.me/628197555354"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-green-600 underline font-semibold mt-2 inline-block"
+          >
+            Hubungi via WhatsApp
+          </a>
+        </>
+      )
     },
     {
       question: "Apakah tersedia fasilitas hotel berbintang?",
