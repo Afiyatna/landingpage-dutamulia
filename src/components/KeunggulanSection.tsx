@@ -31,7 +31,7 @@ const KeunggulanSection = () => {
             Alasan mengapa Umroh bersama Duta Mulia adalah pilihan terbaik untuk perjalanan spiritual dan wisata Anda
           </p>
         </div>
-        <div className="grid md:grid-cols-4 gap-8">
+        <div className="grid md:grid-cols-3 gap-8">
           {keunggulan.map((item, index) => (
             <div key={index} className="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all duration-300 text-center group hover:-translate-y-2">
               <div className="bg-gradient-to-br from-orange-400 to-orange-600 w-20 h-20 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-transform duration-300">
