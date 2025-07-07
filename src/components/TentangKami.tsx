@@ -10,8 +10,8 @@ const TentangKami = () => {
             <h2 className="text-4xl font-bold text-orange-700 mb-6">
               Tentang <span className="text-orange-500">Duta Mulia</span>
             </h2>
-            <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              Duta Mulia adalah biro perjalanan umroh dan haji berizin resmi Kementerian Agama RI (izin PPIU No. U.574 Tahun 2023). Kami berkomitmen memberikan pelayanan terbaik, aman, dan terpercaya untuk setiap jemaah. Program unggulan kami, <b>Umroh Plus Hainan</b>, menghadirkan pengalaman spiritual sekaligus wisata ke destinasi menarik di Hainan, Tiongkok.
+            <p className="text-justify text-lg text-gray-600 mb-8 leading-relaxed">
+              Duta Mulia adalah biro perjalanan umroh dan haji berizin resmi Kementerian Agama RI (izin PPIU  No. U. 574 tahun 2020), (izin PIHK NO: 91201117125800003). Kami berkomitmen memberikan pelayanan terbaik, aman, dan terpercaya untuk setiap jemaah. Program unggulan kami, <b>Umroh Plus Turki, Dubai, Doha dan Hainan</b>, menghadirkan pengalaman spiritual sekaligus wisata ke destinasi menarik.
             </p>
             <div className="space-y-6">
               <div className="flex items-start space-x-4">
@@ -38,7 +38,7 @@ const TentangKami = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-orange-700 mb-2">Fasilitas Lengkap</h4>
-                  <p className="text-gray-600">Hotel nyaman, makan 3x sehari, perlengkapan umroh, city tour Hainan, dan air zam-zam 5L.</p>
+                  <p className="text-gray-600">Hotel nyaman, makan 3x sehari, perlengkapan umroh, city tour Makkah Madinah, dan air zam-zam 5L.</p>
                 </div>
               </div>
             </div>

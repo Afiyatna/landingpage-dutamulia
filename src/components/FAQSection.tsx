@@ -6,16 +6,12 @@ const FAQSection = () => {
 
   const faqs = [
     {
-      question: "Apa saja yang sudah termasuk dalam paket Umroh Plus Hainan?",
-      answer: "Paket sudah termasuk tiket pesawat Hainan Airlines, visa umroh, LA dan bus, handling bandara CGK, tour leader, muthawiff, handling Saudi, makan 3x sehari, perlengkapan umroh, air zam-zam 5L, hotel Madinah (Andalus Golden/setaraf), dan hotel Makkah (Nada Dheafa/setaraf)."
-    },
-    {
       question: "Apa saja yang belum termasuk dalam paket?",
       answer: "Belum termasuk pembuatan paspor, vaksin meningitis, pengiriman perlengkapan, dan tiket domestik PP."
     },
     {
-      question: "Kapan jadwal keberangkatan Umroh Plus Hainan?",
-      answer: "Keberangkatan pada 05 September 2025, program selama 12 hari."
+      question: "Kapan jadwal keberangkatan Umroh Duta Mulia?",
+      answer: "Keberangkatan pada 04 Desember 2025, program selama 9 hari."
     },
     {
       question: "Bagaimana cara mendaftar program ini?",

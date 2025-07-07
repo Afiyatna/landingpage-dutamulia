@@ -26,7 +26,7 @@ const HeroSection = () => {
               {/* &bull; <span className="text-orange-600">12 Hari</span> */}
             </h2>
             <p className="text-lg lg:text-xl mb-8 text-brown-800 leading-relaxed">
-              Program spesial bersama <b>Duta Mulia</b> dengan fasilitas lengkap: Makkah, Madinah, dan wisata Hainan, Tiongkok. Penerbangan langsung <b>Hainan Airlines</b>.
+            Program Umroh Reguler bersama Duta Mulia dengan fasilitas hotel Makkah dan Madinah sangat dekat (300-400m) dan City tour Makkah Madinah yang menyenangkan serta penerbangan yang nyaman bersama Oman air
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <button className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-4 px-8 rounded-full text-lg transition-all duration-300 transform hover:scale-105 shadow-lg">

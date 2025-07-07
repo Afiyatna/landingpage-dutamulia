@@ -5,18 +5,13 @@ const KeunggulanSection = () => {
   const keunggulan = [
     {
       icon: Plane,
-      title: "Penerbangan Langsung Hainan Airlines",
-      description: "Menggunakan maskapai ternama Hainan Airlines untuk kenyamanan dan keamanan perjalanan Anda."
+      title: "Penerbangan Oman Airlines",
+      description: "Menggunakan maskapai ternama Oman Airlines untuk kenyamanan dan keamanan perjalanan Anda."
     },
     {
       icon: Hotel,
       title: "Hotel Nyaman & Dekat Masjid",
       description: "Akomodasi di hotel Andalus Golden (Madinah) dan Nada Dheafa (Makkah) atau setaraf, menjamin kenyamanan ibadah."
-    },
-    {
-      icon: CheckCircle,
-      title: "Program Plus Wisata Hainan",
-      description: "Selain ibadah umroh, Anda juga akan menikmati wisata ke destinasi menarik di Hainan, Tiongkok."
     },
     {
       icon: Shield,
@@ -33,7 +28,7 @@ const KeunggulanSection = () => {
             Keunggulan Paket Promo Umrah Akhir Tahun 2025
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Alasan mengapa Umroh Plus Hainan Duta Mulia adalah pilihan terbaik untuk perjalanan spiritual dan wisata Anda
+            Alasan mengapa Umroh bersama Duta Mulia adalah pilihan terbaik untuk perjalanan spiritual dan wisata Anda
           </p>
         </div>
         <div className="grid md:grid-cols-4 gap-8">
